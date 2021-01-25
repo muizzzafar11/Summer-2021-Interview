@@ -1,7 +1,12 @@
+## Repository
+- For clone; https://github.com/muizzzafar11/DIY_Recipe.git
+- https://github.com/muizzzafar11/DIY_Recipe
+
+
 
 ## Setting up the Database
 - Type the following command to get to the root directory
-  `cd recipeDIY/recipeDIY`
+  `cd DIY_Recipe/recipeDIY`
 - Now, in PSQL shell, run the following command to create a db: 
   `CREATE DATABASE franksdb;`
 - Now run the following command in the PSQL shell to create a new user with default password:
